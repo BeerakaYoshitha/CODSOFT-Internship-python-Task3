@@ -50,3 +50,9 @@ After generating the password, the script displays it to the user.
 Account Security: Generate strong passwords for online accounts, reducing the risk of unauthorized access.
 System Access: Create secure passwords for system or application access where password strength is critical.
 Testing: Useful for developers needing to generate sample passwords for testing purposes.
+
+# OUTPUT OF THE CODE / EXAMPLE OF THE CODE:
+![PASSWORD (3)](https://github.com/user-attachments/assets/b8fab671-fd50-475c-a5c7-c3ac9e9df74f)
+![PASSWORD(2)](https://github.com/user-attachments/assets/c86799ef-6a98-4dba-8c62-aae17f4c2cea)
+![PASSWORD1](https://github.com/user-attachments/assets/a37ce512-6d1c-4f8d-841a-c908a4c48179)
+
